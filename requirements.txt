@@ -1,0 +1,9 @@
+# Reference environment: Python 3.8.20, PyTorch 2.0.0 + CUDA 11.7.
+# Install matching CUDA wheels first if GPU support is required; see README.md.
+torch==2.0.0
+torchvision==0.15.1
+numpy==1.24.3
+Pillow==10.4.0
+scikit-image==0.21.0
+matplotlib==3.7.2
+lpips==0.1.4

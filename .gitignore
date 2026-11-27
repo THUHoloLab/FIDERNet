@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local data, checkpoints, and generated experiment outputs.
+datasets/
+dataset_unseen_split/
+weights/
+runs*/
+outputs/
+demo_outputs/
+bladder*/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
